@@ -22,12 +22,21 @@ Internal cable routing for tension-based motion
 3D printed structural components
 Modular joint configuration
 
+
 ![V2 arm test](https://github.com/JosephDalman/Doc---Ock-robotic-arm/blob/4ad61123c76456d44a8d578271b419d9845cc341/Moving_arm(V2).jpg)
 
 Actuation & Control
 Cable-tension actuation system
 Servo/motor-driven cable pull mechanism
 Embedded microcontroller control
+
+What I learned
+
+Cable-driven articulation requires careful tension balancing to maintain predictable joint motion.
+Mechanical segementation affects torque distribution and bending stability across the arm structure.
+Prototyping is essential for indentifying structural stiffness and alignment limitations.
+Iterative design improved mechanical performance more effectively than attempting a perfect single build. 
+
 
 Current Status
 This repository documents the current working prototype configuration. The arm demonstrates controlled articulation and mechanical feasibility testing.
