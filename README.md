@@ -19,8 +19,10 @@ Structural stability during articulation
 Mechanical Design
 Multi-segment articulated structure
 Internal cable routing for tension-based motion
-Additive manufactured structural components
+3D printed structural components
 Modular joint configuration
+
+![V2 arm test](https://github.com/JosephDalman/Doc---Ock-robotic-arm/blob/4ad61123c76456d44a8d578271b419d9845cc341/Moving_arm(V2).jpg)
 
 Actuation & Control
 Cable-tension actuation system
@@ -29,6 +31,8 @@ Embedded microcontroller control
 
 Current Status
 This repository documents the current working prototype configuration. The arm demonstrates controlled articulation and mechanical feasibility testing.
+
+![V3 arm test](https://github.com/JosephDalman/Doc---Ock-robotic-arm/blob/4ad61123c76456d44a8d578271b419d9845cc341/New_arm_design(V3).jpg)
 
 Future Improvements
 Improved cable tension management
