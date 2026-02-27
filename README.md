@@ -1,8 +1,14 @@
 Doc Ock Cable-Driven Robotic Arm
 Segmented, cable-controlled robotic arm prototype inspired by the mechanical arm concept of Doctor Octopus.
+![arm bending shot](https://github.com/JosephDalman/Doc---Ock-robotic-arm/blob/97622632e044d96391b128d6858097c6a2aa6839/New_arm_actuation(up).jpg)
+
+
+
+
 This project explores articulated mechanical design, cable-driven actuation, and embedded control for multi-joint robotic manipulation.
 
 Overview
+
 This prototype uses a segmented structural design with internal cable routing to achieve articulated motion across multiple joints. Actuation is achieved through tension-based cable control, allowing bending and directional positioning of the arm.
 The system was designed to investigate:
 Cable-driven joint mechanics
