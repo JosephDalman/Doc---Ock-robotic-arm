@@ -33,8 +33,11 @@ Embedded microcontroller control
 What I learned
 
 Cable-driven articulation requires careful tension balancing to maintain predictable joint motion.
+
 Mechanical segementation affects torque distribution and bending stability across the arm structure.
+
 Prototyping is essential for indentifying structural stiffness and alignment limitations.
+
 Iterative design improved mechanical performance more effectively than attempting a perfect single build. 
 
 
