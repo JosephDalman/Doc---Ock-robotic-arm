@@ -44,7 +44,7 @@ Iterative design improved mechanical performance more effectively than attemptin
 Current Status
 This repository documents the current working prototype configuration. The arm demonstrates controlled articulation and mechanical feasibility testing.
 
-![V3 arm test](https://github.com/JosephDalman/Doc---Ock-robotic-arm/blob/0f51c19fd982564fe9c08b100e61ec029fdeeb50/Doc%20Ock%20arm%20v3%20short.jp)
+![V3 arm test](https://github.com/JosephDalman/Doc---Ock-robotic-arm/blob/b5da9b733c55d6d8c5136a7eaf0dfbb2302422e0/Doc%20Ock%20arm%20v3%20short.jpg)
 
 Future Improvements
 Improved cable tension management
