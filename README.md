@@ -23,7 +23,7 @@ Internal cable routing for tension-based motion
 Modular joint configuration
 
 
-![V2 arm test](https://github.com/JosephDalman/Doc---Ock-robotic-arm/blob/4ad61123c76456d44a8d578271b419d9845cc341/Moving_arm(V2).jpg)
+![V2 arm test](https://github.com/JosephDalman/Doc---Ock-robotic-arm/blob/be0856e68b79998ba696712b0f46592725ea10e3/Moving_arm_test.jpg)
 
 Actuation & Control
 Cable-tension actuation system
@@ -44,7 +44,7 @@ Iterative design improved mechanical performance more effectively than attemptin
 Current Status
 This repository documents the current working prototype configuration. The arm demonstrates controlled articulation and mechanical feasibility testing.
 
-![V3 arm test](https://github.com/JosephDalman/Doc---Ock-robotic-arm/blob/0f51c19fd982564fe9c08b100e61ec029fdeeb50/Doc%20Ock%20arm%20v3%20short.jpg)
+![V3 arm test](https://github.com/JosephDalman/Doc---Ock-robotic-arm/blob/0f51c19fd982564fe9c08b100e61ec029fdeeb50/Doc%20Ock%20arm%20v3%20short.jp)
 
 Future Improvements
 Improved cable tension management
