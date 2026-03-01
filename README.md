@@ -30,15 +30,24 @@ Modular joint configuration
 Hardware components:
 
 Microcontroller: Arduino Mega
+
 40kg high torque servos
+
 3D printed PLA segments, pulleys and servo mounts
 12V LiFePO4 battery
-Adjustable DC 6-40V to 1.2-36V Voltage regulators
+
+Adjustable DC 6-40V to 1.2-36V voltage regulators
+
 1mm technora braided cord
+
 Compression springs (8 - 9mm width)
+
 M3 screws and nuts
+
 Analog (arduino compatible) joystick module 
+
 jumper wires
+
 breadboard
 
 Actuation & Control
