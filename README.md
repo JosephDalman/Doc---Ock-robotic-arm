@@ -50,10 +50,12 @@ jumper wires
 
 breadboard
 
+
 Actuation & Control
 Cable-tension actuation system
 Servo/motor-driven cable pull mechanism
 Embedded microcontroller control
+
 
 What I learned
 
