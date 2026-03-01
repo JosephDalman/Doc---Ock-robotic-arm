@@ -17,6 +17,7 @@ Actuator torque requirements
 Structural stability during articulation
 
 Mechanical Design
+
 Multi-segment articulated structure
 Internal cable routing for tension-based motion
 3D printed structural components
@@ -24,6 +25,21 @@ Modular joint configuration
 
 
 ![V2 arm test](https://github.com/JosephDalman/Doc---Ock-robotic-arm/blob/be0856e68b79998ba696712b0f46592725ea10e3/Moving_arm_test.jpg)
+
+
+Hardware components:
+
+Microcontroller: Arduino Mega
+40kg high torque servos
+3D printed PLA segments, pulleys and servo mounts
+12V LiFePO4 battery
+Adjustable DC 6-40V to 1.2-36V Voltage regulators
+1mm technora braided cord
+Compression springs (8 - 9mm width)
+M3 screws and nuts
+Analog (arduino compatible) joystick module 
+jumper wires
+breadboard
 
 Actuation & Control
 Cable-tension actuation system
@@ -41,17 +57,27 @@ Prototyping is essential for indentifying structural stiffness and alignment lim
 Iterative design improved mechanical performance more effectively than attempting a perfect single build. 
 
 
+
+
 Current Status
 This repository documents the current working prototype configuration. The arm demonstrates controlled articulation and mechanical feasibility testing.
 
 ![V3 arm test](https://github.com/JosephDalman/Doc---Ock-robotic-arm/blob/b5da9b733c55d6d8c5136a7eaf0dfbb2302422e0/Doc%20Ock%20arm%20v3%20short.jpg)
 
 Future Improvements
+
 Improved cable tension management
+
 Increased joint torque capacity
+
 Enhanced structural rigidity
+
 Expanded motion sequencing control
+
 Repository Structure
+
 /images – Development and prototype photos
+
 /stl – Printable mechanical components
+
 /code – Control source files
